@@ -33,7 +33,7 @@ server.post('/verificaUtente', accediRegistrati);
 server.post('/prodotti/:get5prodotti', get5Prodotti);
 server.post('/utente/:info', getUtente);
 server.post('/aggiungialCarrello', verificaAddProdottoCarrello);
-server.post('/quantitaTotaleProdotto', getQuantitaTotaleProdotto);
+//server.post('/quantitaTotaleProdotto', getQuantitaTotaleProdotto);
 server.post('/deleteProdottoCarrello', deleteProdottoCarrello);
 server.post('/aggiungiAcquisto', aggiungiAcquisto);
 server.post('/ottieniCarrello', ottieniCarrello);
