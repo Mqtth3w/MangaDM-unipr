@@ -363,6 +363,7 @@ class App extends Component {
     this.utente.ruolo = "user";
     const utente = this.utente;
     this.setState({utente});
+	this.handleGoToHome();
   }
  
   render(){
