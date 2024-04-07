@@ -5,4 +5,4 @@
 - Sostitute the src folder of the created app with mine src folder
 - Install xampp and start MySql (you can use of course a different db)
 - Upload trough PhpMyAdmin the file "negoziomanga.sql" in the database folder to create the db.
-- In the React app folder run from terminal "npx start" 
+- In the React app folder run from terminal "npm start" 
