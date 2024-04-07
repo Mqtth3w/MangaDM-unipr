@@ -1,4 +1,4 @@
-## Manga E-Commerce (web app with React and Node.js
+## Manga E-Commerce (web app with React and Node.js)
 ### Configuration
 - Install node.js
 - Create a React app with npm (here named mangadm-app)
