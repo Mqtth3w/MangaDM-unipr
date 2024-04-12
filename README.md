@@ -6,7 +6,7 @@
 - Install xampp and start MySql (you can use of course a different db), start Apache
 - Put assets folder in htdocs's xampp folder
 - Upload trough PhpMyAdmin the file "negoziomanga.sql" in the database folder to create the db.
-- Install all dependencies of serverExpress.js so install mysql, cors, express with npm install.
+- Install all dependencies of serverExpress.js so install mysql, cors, express, etc.. with npm install.
 - Install also jquery used in the React app (bootstrap).
 - Run from terminal "node serverExpress.js" in the directory of serverExpress.js
 - In the React app directory run from terminal "npm start" 
