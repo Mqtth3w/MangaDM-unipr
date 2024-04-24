@@ -1,5 +1,5 @@
-## Manga E-Commerce (web app with React and Node.js)
-### Configuration
+# Manga E-Commerce (web app with React and Node.js)
+## Configuration
 - Install Node.js
 - Create a React app with "npm init react-app mangadm-app" (here named mangadm-app)
 - Sostitute the src folder of the created app with mine src folder
